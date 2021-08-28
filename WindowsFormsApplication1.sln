@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPlanner", "WindowsFormsApplication1\EventPlanner.csproj", "{A9204178-1634-4432-8715-83B76048ECBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		buid|Any CPU = buid|Any CPU
+		buid|x64 = buid|x64
+		build|Any CPU = build|Any CPU
+		build|x64 = build|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9204178-1634-4432-8715-83B76048ECBE}.buid|Any CPU.ActiveCfg = buid|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.buid|Any CPU.Build.0 = buid|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.buid|x64.ActiveCfg = buid|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.buid|x64.Build.0 = buid|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.build|Any CPU.ActiveCfg = build|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.build|Any CPU.Build.0 = build|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.build|x64.ActiveCfg = build|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.build|x64.Build.0 = build|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Debug|Any CPU.Build.0 = Debug|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Debug|x64.ActiveCfg = Debug|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Debug|x64.Build.0 = Debug|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9204178-1634-4432-8715-83B76048ECBE}.Release|x64.ActiveCfg = Release|x64
+		{A9204178-1634-4432-8715-83B76048ECBE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8310F494-9134-4CCF-987D-CAFDA21E7556}
+	EndGlobalSection
+EndGlobal
