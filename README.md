@@ -14,6 +14,6 @@ We added search event by (ID, name, speakers, date) function to the system so st
 
 Using crystal reports to create reports with:
 
-   1. Grouped columns / Summarized columns/ Formulas / Labels to enhance design and readability 
+   1. Grouped columns / Summarized columns/ Formulas / Labels to enhance design and readability.
    
-   2. Parameters with different data types 
+   2. Parameters with different data types. 
